@@ -1,0 +1,4 @@
+streamlit>=1.60
+streamlit-shadcn-ui>=1.4
+Pyro5>=5.15
+plotly>=5.20
